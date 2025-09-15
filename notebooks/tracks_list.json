@@ -1,0 +1,52 @@
+[
+    {
+        "song": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+        "popularity": 81,
+        "duration": 215466
+    },
+    {
+        "song": "La Isla Bonita",
+        "popularity": 71,
+        "duration": 242733
+    },
+    {
+        "song": "Like a Prayer",
+        "popularity": 72,
+        "duration": 340866
+    },
+    {
+        "song": "Hung Up",
+        "popularity": 77,
+        "duration": 337733
+    },
+    {
+        "song": "Material Girl",
+        "popularity": 68,
+        "duration": 240706
+    },
+    {
+        "song": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+        "popularity": 76,
+        "duration": 189693
+    },
+    {
+        "song": "Vogue",
+        "popularity": 66,
+        "duration": 317080
+    },
+    {
+        "song": "Like a Virgin",
+        "popularity": 70,
+        "duration": 218626
+    },
+    {
+        "song": "Into the Groove",
+        "popularity": 62,
+        "duration": 283848
+    },
+    {
+        "song": "Papa Don't Preach",
+        "popularity": 60,
+        "duration": 268533
+    }
+]
